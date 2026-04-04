@@ -1,6 +1,9 @@
 #include <stdio.h>
+#include <stdbool.h>
 
 int main() {
-  printf("Hello World!");
-  return 0;
+    while (true) {
+        printf("Hello\n");
+    }
+    return 0;
 }
